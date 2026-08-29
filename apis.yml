@@ -35,6 +35,8 @@ description: >-
   developer API, SDKs, or developer portal (api.thestorefront.com is private/401), so
   this profile captures company identity and public web properties only.
 url: https://raw.githubusercontent.com/api-evangelist/storefront/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
